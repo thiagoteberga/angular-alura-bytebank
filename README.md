@@ -19,6 +19,9 @@
 - [x] Importar e utilizar o módulo HttpClient;
 - [x] Como enviar os dados de um formulário para a API;
 - [x] Como exibir em tela os dados obtidos de uma API;
+- [x] Importar e utilizar o módulo RouterModule;
+- [x] Adicionar rotas aos componentes transformando-os em páginas;
+- [x] Utilizar o RouterLink para melhorar a usabilidade de nossa aplicação.
 
 ## Estrutura básica do projeto
 ``` bash
